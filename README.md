@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, SpringBoot, GATE Exam.**
 
-- 📫 How to reach me **galavanshuman@hmail.com**
+- 📫 How to reach me **galavanshuman@gmail.com**
 
 - ⚡ Fun fact **I have a very serious face for a funny person.**
 
