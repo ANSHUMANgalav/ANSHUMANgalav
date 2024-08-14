@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anshuman Galav</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center">Hello 👋, I'm Anshuman</h1>
+<h3 align="center">A(nother) Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshumangalav&label=Profile%20views&color=0e75b6&style=flat" alt="anshumangalav" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, SpringBoot, GATE Exam.**
 
-- 📫 How to reach me **galavanshuman@hmail.com**
+- 📫 How to reach me **galavanshuman@gmail.com**
 
 - ⚡ Fun fact **I have a very serious face for a funny person.**
 
